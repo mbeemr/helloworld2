@@ -1,3 +1,6 @@
 watermelon
 apple
 banana
+orange
+grape
+cantaloupe
